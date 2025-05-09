@@ -17,7 +17,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=tokyonight" alt="Mani Singh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buildsByMani&show_icons=true&theme=tokyonight" alt="Mani Singh's GitHub stats" />
 </p>
 
 ---
